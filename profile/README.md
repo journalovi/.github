@@ -1,12 +1,22 @@
-## Hi there 👋
+<a href="https://www.journalovi.org/">
+  <p align="center">
+    <picture>
+      <img height="200" src="jovi_wordmark_white_bg.png" alt="JoVI logo" />
+    </picture>
+  </p>
+</a>
 
-<!--
+<p align="center">
+  <a href="https://www.journalovi.org/">
+    <img
+      src="https://img.shields.io/badge/JoVI%20Website-9E005D?style=for-the-badge"
+      alt="JoVI Website"
+      /></a>
+  <a href="https://github.com/journalovi/jovi-submissions">
+    <img 
+      src="https://img.shields.io/badge/Submissions%20Repository-9E005D?style=for-the-badge"
+      alt="Submissions Repository"
+    /></a>
+</p>
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[JoVI](https://www.journalovi.org/) is a venue for publishing scholarly work related to the fields of visualization and human-computer interaction. JoVI is a diamond open-access venue, i.e. a purely volunteer-driven effort that charges neither author nor subscription fees.
